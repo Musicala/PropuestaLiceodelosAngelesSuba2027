@@ -1,0 +1,7 @@
+PROPUESTA INTERACTIVA · MUSICALA × LICEO DE LOS ÁNGELES
+
+Abrir index.html en un navegador moderno. No requiere instalación ni conexión a internet para funcionar; el logo está incluido en assets/.
+
+La página presenta quién es Musicala, fotos de experiencias previas de GMMMC/FSA, dos videos de muestra, el modelo de alianza y un simulador mensual para comparar participación de ingresos, canon fijo y esquema híbrido. Los campos del simulador inician vacíos: las tarifas y condiciones económicas se definirán entre las instituciones. El botón “Imprimir / guardar PDF” permite guardar la propuesta desde el navegador. “Presentar” activa navegación por secciones con flechas del teclado.
+
+Propuesta preliminar. El alcance, costos, recaudo, facturación, grupos mínimos, horarios, seguridad, protección de datos y condiciones contractuales se definirán de común acuerdo.
